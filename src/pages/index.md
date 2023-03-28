@@ -1,21 +1,20 @@
 ---
 templateKey: index-page
-title: Departamentos en amueblados
-image: /img/home-jumbotron.jpg
+title: Departamentos amueblados
+image: /img/94dfeb49-6a1f-4893-91ff-1ad1288274cf.webp
 heading: Great coffee with a conscience
 subheading: Excelente ubicación en Manzanillo, Colima, México
 mainpitch:
   title: Por qué hospedarse con nosotros?
   description: >
-    Su excelente ubicación facilita que todo lo tengas muy cerca, casi a la mano: 
-    tiendas Oxxo, Walmart, Soriana, Kiosco y Comercial Mexicana; la distinguida 
-    Plaza Punto Bahía, salas de cine, restaurantes de comida rápida, colimense, 
-    nacional e internacional y más servicios.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Su excelente ubicación facilita que todo lo tengas muy cerca, casi a la
+    mano:  tiendas Oxxo, Walmart, Soriana, Kiosco y Comercial Mexicana; la
+    distinguida  Plaza Punto Bahía, salas de cine, restaurantes de comida
+    rápida, colimense,  nacional e internacional y más servicios.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
