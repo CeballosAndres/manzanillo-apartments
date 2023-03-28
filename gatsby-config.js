@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "Departamentos Manzanillo Colima Mexico",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "Departamento amueblado y equipado planta baja; frente al Andador a la Playa; 4 Huéspedes; 2 recámaras, 1 cama matrimonial y 2 individuales; 6 ventiladores de techo; ventanales y puertas con mosquiteros; sala-comedor y cocina; 2 baños completos; TV smart 42”, canales por cable; internet inalámbrico; alberca privada exclusiva huéspedes del departamento; tendedero y estacionamiento.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -43,7 +43,7 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
-          'gatsby-remark-relative-images',
+          "gatsby-remark-relative-images",
           {
             resolve: "gatsby-remark-images",
             options: {
